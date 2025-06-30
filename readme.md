@@ -102,3 +102,59 @@ _Registro de contas bancárias_
 
 ![Captura da Aba Notas](Projeto2/Imagens/3-Notas.png)
 _Registro de rendimentos mensais_
+
+# Projeto 3: DashBoard de Vendas Excel
+
+## 📌 Visão Geral
+
+Este dashboard em Excel fornece uma análise completa das assinaturas do Xbox Game Pass, com insights sobre:
+
+- Desempenho de receita
+- Padrões de assinatura
+- Vendas de pacotes adicionais (EA Play e Minecraft)
+- Métricas de retenção de clientes
+- Efetividade de promoções
+
+## 🛠️ Funcionalidades
+
+### 📊 Módulos Principais
+
+- **Análise de Receita**
+
+  - Detalhamento por planos anuais
+  - Comparativo entre renovações automáticas e manuais
+  - Desempenho por tipo de assinatura (Core/Standard/Ultimate)
+
+- **Vendas de Pacotes Extras**
+
+  - Vendas do EA Play Season Pass
+  - Desempenho do Minecraft Season Pass
+  - Análise de contribuição para receita
+
+- **Insights de Clientes**
+  - Tendências mensais de novas assinaturas
+  - Avaliação de risco de cancelamento (churn)
+  - Impacto do uso de cupons
+
+### 🔍 Exploração de Dados
+
+- 300+ registros simulados de assinantes
+- Análise de tendência de 12 meses
+- Tabelas dinâmicas para análise personalizada
+
+## 🚀 Como Usar
+
+1. **Baixe** o arquivo `projeto3.xlsx`
+2. **Explore** as abas:
+   - Dados brutos em `Bases`
+   - Análises em `Cálculos`
+3. **Atualize** tabelas dinâmicas (Alt+F5)
+
+## ⚙️ Requisitos Técnicos
+
+- Excel 2016 ou superior
+- Conexões de dados habilitadas
+
+## Imagens
+
+![DashBoard](Projeto3/Imagens/Dashboard%20Excel.png)
